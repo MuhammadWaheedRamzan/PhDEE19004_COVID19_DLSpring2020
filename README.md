@@ -23,7 +23,7 @@ Bestmodels results are shown below.
 |     VGG16     |       96      |    0.972 |
 |   Resnet18    |       97      |   0.9794 |
 
-# Confusion Matrices 
+# Confusion Matrices for test results
 
 VGG16 Task 1 (FC layer fine tuned only)
 
