@@ -19,6 +19,37 @@ https://drive.google.com/drive/u/1/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR?aut
 |     VGG16     |       96      |    0.972 |
 |   Resnet18    |       97      |   0.9794 |
 
+# Confusion Matrices 
+
+VGG16 Task 1 (FC layer fine tuned only)
+
+|               |    Infected   |   Normal |
+| ------------- | ------------- | -------- |
+|   Infected    |      550      |      65  |
+|    Normal     |       16      |     869  |
+
+VGG16 Task 2 (Entire layers fine tuned)
+
+|               |    Infected   |   Normal |
+| ------------- | ------------- | -------- |
+|   Infected    |      583      |      32  |
+|    Normal     |       19      |     866  |
+
+Resnet18 Task 1 (FC layer fine tuned only)
+
+|               |    Infected   |   Normal |
+| ------------- | ------------- | -------- |
+|   Infected    |      541      |      74  |
+|    Normal     |       38      |     847  |
+
+Resnet18 Task 2 (Entire layers fine tuned)
+
+|               |    Infected   |   Normal |
+| ------------- | ------------- | -------- |
+|   Infected    |      585      |      30  |
+|    Normal     |       11      |     874  |
+
+
 # Models
 
 Trainined VGG16, and Resnet18 models both for Task 1 and Task 2 are provided in folder 'Weights' (a link is given to google drive where files are stored). For task 1 stored model files are named as modelname_FC_Only.pth, and for task 2 stored model files are named as modelname_entire.pth
