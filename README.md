@@ -18,3 +18,7 @@ https://drive.google.com/drive/u/1/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR?aut
 | ------------- | ------------- | -------- |
 |     VGG16     |       97      |    0.97  |
 |   Resnet18    |       97      |   0.9794 |
+
+# Models
+
+Trainined VGG16, and Resnet18 models both for Task 1 and Task 2 are provided in folder 'Weights' (a link is given to google drive where files are stored). For task 1 stored model files are named as modelname_FC_Only.pth, and for task 2 stored model files are named as modelname_entire.pth
