@@ -4,7 +4,15 @@ This repository contains code and results for COVID-19 classification assignment
 # Dataset
 https://drive.google.com/drive/u/1/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR?authuser=1
 
-# Results
+# Results Task 1
+
+| Model         | Test Accuracy | F1 Score |
+| ------------- | ------------- | -------- |
+|     VGG16     |       94      |    0.956 |
+|   Resnet18    |       92      |   0.9381 |
+
+
+# Results Task 2
 
 | Model         | Test Accuracy | F1 Score |
 | ------------- | ------------- | -------- |
