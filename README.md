@@ -16,7 +16,7 @@ https://drive.google.com/drive/u/1/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR?aut
 
 | Model         | Test Accuracy | F1 Score |
 | ------------- | ------------- | -------- |
-|     VGG16     |       97      |    0.97  |
+|     VGG16     |       96      |    0.972 |
 |   Resnet18    |       97      |   0.9794 |
 
 # Models
