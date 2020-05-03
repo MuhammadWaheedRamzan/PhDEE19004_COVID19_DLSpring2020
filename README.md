@@ -68,4 +68,19 @@ https://drive.google.com/open?id=1eytbwaLQBv12psV8I-aMkIli9N3bf8nO
 |       Model         | Validation Accuracy | F1 Score |
 | ------------------- | ------------------- | -------- |
 |        VGG16        |          94         |    0.956 |
-|   Resnet18    |       92      |   0.9381 |
+|      Resnet18       |          92         |    0.927 |
+
+
+# Best Models with Focal Loss
+
+|       Model         | Validation Accuracy | F1 Score |
+| ------------------- | ------------------- | -------- |
+|        VGG16        |          93         |    0.939 |
+|      Resnet18       |          91         |    0.925 |
+
+#
+# Confusion Matrices for test results
+vgg16
+#
+# Models
+Link to saved models are provided in Weights folder. For models without focal loss names are vgg16_without_focal_loss.pth and res18_without_focal_loss.pth, and models with focal loss names are vgg16_focal_loss.pth and res18_focal_loss.pth.
