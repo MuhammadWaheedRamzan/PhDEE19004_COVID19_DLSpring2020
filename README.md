@@ -57,3 +57,16 @@ Resnet18 Task 2 (Entire layers fine tuned)
 # Models
 
 Trainined VGG16, and Resnet18 models both for Task 1 and Task 2 are provided in folder 'Weights' (a link is given to google drive where files are stored). For task 1 stored model files are named as modelname_FC_Only.pth, and for task 2 stored model files are named as modelname_entire.pth
+
+# Part 2 Comparison with and without Focal Loss
+
+# Dataset
+https://drive.google.com/open?id=1eytbwaLQBv12psV8I-aMkIli9N3bf8nO
+
+# Best Models without Focal Loss
+
+|       Model         | Validation Accuracy | F1 Score |
+| ------------------- | ------------------- | -------- |
+|        VGG16        |          94         |    0.956 |
+| 25088, 4096, 1024,3 |                     |          |
+|   Resnet18    |       92      |   0.9381 |
