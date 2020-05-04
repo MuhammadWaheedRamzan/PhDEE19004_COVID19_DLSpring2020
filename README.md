@@ -96,7 +96,7 @@ https://drive.google.com/open?id=1eytbwaLQBv12psV8I-aMkIli9N3bf8nO
 |     391       |       9       |
 |     19        |       209     |
 
-|Table 1|Table 2|
+|**VGG16 without Focal Loss**|**VGG16 with Focal Loss**|
 |--|--|
 |<table> <tr><th>rest</th><th>Covid-19</th></tr><tr><td>599</td><td>1</td></tr><tr><td>8</td><td>20</td></tr> </table>| <table> <tr><th>Table 2 Heading 1</th><th>Table 2 Heading 2</th></tr><tr><td>Row 1 Column 1</td><td>Row 1 Column 2</td></tr> </table>
 
