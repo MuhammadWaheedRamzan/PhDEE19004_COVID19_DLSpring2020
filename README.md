@@ -1,7 +1,8 @@
 # PhDEE19004_COVID19_DLSpring2020
 This repository contains code and results for COVID-19 classification assignment by Deep Learning Spring 2020 course offered at Information Technology University, Lahore, Pakistan. This assignment is only for learning purposes and is not intended to be used for clinical purposes.
 
-
+#
+#Assignment 5 Part 1
 # Dataset
 https://drive.google.com/drive/u/1/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR?authuser=1
 
@@ -151,6 +152,7 @@ https://drive.google.com/open?id=1eytbwaLQBv12psV8I-aMkIli9N3bf8nO
 #
 # Models
 Link to saved models are provided in Weights folder. For models without focal loss names are vgg16_without_focal_loss.pth and res18_without_focal_loss.pth, and models with focal loss names are vgg16_focal_loss.pth and res18_focal_loss.pth.
+\
 \
 For VGG16 without focal loss case fully connected layers and their neurons settings are 25088 x 4096 x 1024 x 3
 \
