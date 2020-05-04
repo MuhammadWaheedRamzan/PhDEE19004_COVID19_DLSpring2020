@@ -96,6 +96,7 @@ https://drive.google.com/open?id=1eytbwaLQBv12psV8I-aMkIli9N3bf8nO
 |     391       |       9       |
 |     19        |       209     |
 
+\
 **VGG16 with Focal Loss**
 |     rest      |    Covid 19   |          
 | ------------- | ------------- |
