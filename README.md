@@ -83,7 +83,6 @@ https://drive.google.com/open?id=1eytbwaLQBv12psV8I-aMkIli9N3bf8nO
 **VGG16 without Focal Loss**
 
              Covid 19          
-| ------------- | ------------- |
 |     599       |       1       |
 |       8       |       20      |
 
