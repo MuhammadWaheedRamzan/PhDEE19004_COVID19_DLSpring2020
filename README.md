@@ -151,3 +151,12 @@ https://drive.google.com/open?id=1eytbwaLQBv12psV8I-aMkIli9N3bf8nO
 #
 # Models
 Link to saved models are provided in Weights folder. For models without focal loss names are vgg16_without_focal_loss.pth and res18_without_focal_loss.pth, and models with focal loss names are vgg16_focal_loss.pth and res18_focal_loss.pth.
+\
+For VGG16 without focal loss case fully connected layers and their neurons settings are 25088 x 4096 x 1024 x 3
+\
+For VGG16 with focal loss case fully connected layers and their neurons settings are 25088 x 4096 x 3 
+\
+For Resnet18 without focal loss case fully connected layers and their neurons settings are 512 x 140 x 3
+\
+For Resnet18 with focal loss case fully connected layers and their neurons settings are 512 x 140 x 3
+
