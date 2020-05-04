@@ -96,6 +96,10 @@ https://drive.google.com/open?id=1eytbwaLQBv12psV8I-aMkIli9N3bf8nO
 |     391       |       9       |
 |     19        |       209     |
 
+|Table 1|Table 2|
+|--|--|
+|<table> <tr><th>rest</th><th>Covid-19</th></tr><tr><td>599</td><td>1</td></tr><tr><td>8</td><td>20</td></tr> </table>| <table> <tr><th>Table 2 Heading 1</th><th>Table 2 Heading 2</th></tr><tr><td>Row 1 Column 1</td><td>Row 1 Column 2</td></tr> </table>
+
 #
 # Models
 Link to saved models are provided in Weights folder. For models without focal loss names are vgg16_without_focal_loss.pth and res18_without_focal_loss.pth, and models with focal loss names are vgg16_focal_loss.pth and res18_focal_loss.pth.
