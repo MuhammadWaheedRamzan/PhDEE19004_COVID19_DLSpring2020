@@ -79,8 +79,15 @@ https://drive.google.com/open?id=1eytbwaLQBv12psV8I-aMkIli9N3bf8nO
 |      Resnet18       |          91         |    0.925 |
 
 #
-# Confusion Matrices for test results
+# Confusion Matrices of Trained Models evaluated on Validation Data set
 **VGG16 without Focal Loss**
+
+|             Covid 19          |
+| ------------- | ------------- |
+|     599       |       1       |
+|       8       |       20      |
+
+
 #
 # Models
 Link to saved models are provided in Weights folder. For models without focal loss names are vgg16_without_focal_loss.pth and res18_without_focal_loss.pth, and models with focal loss names are vgg16_focal_loss.pth and res18_focal_loss.pth.
