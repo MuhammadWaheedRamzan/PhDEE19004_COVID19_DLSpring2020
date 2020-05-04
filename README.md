@@ -81,10 +81,10 @@ https://drive.google.com/open?id=1eytbwaLQBv12psV8I-aMkIli9N3bf8nO
 #
 # Confusion Matrices of Trained Models evaluated on Validation Data set
 **VGG16 without Focal Loss**
-|        Covid 19 vs rest       |
-| ------------- | ------------- |
-|     599       |       1       |
-|       8       |       20      |
+|     rest      |    Covid 19   |          |     rest      |      Normal   |         |     rest      |   pneumonia   |
+| ------------- | ------------- |          | ------------- | ------------- |         | ------------- | ------------- |
+|     599       |       1       |          |     207       |       21      |         |     391       |       9       |
+|       8       |       20      |          |       8       |      392      |         |     19        |       209     |
 
 
 
