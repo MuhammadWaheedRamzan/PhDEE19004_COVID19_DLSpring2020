@@ -96,9 +96,21 @@ https://drive.google.com/open?id=1eytbwaLQBv12psV8I-aMkIli9N3bf8nO
 |     391       |       9       |
 |     19        |       209     |
 
-|**VGG16 without Focal Loss**|**VGG16 with Focal Loss**|
-|--|--|
-|<table> <tr><th>rest</th><th>Covid-19</th></tr><tr><td>599</td><td>1</td></tr><tr><td>8</td><td>20</td></tr> <tr> </tr> <tr><th>rest</th><th>Normal</th></tr><tr><td>207</td><td>21</td></tr><tr><td>8</td><td>392</td></tr> <tr><th>rest</th><th>pneumonia</th></tr><tr><td>391</td><td>9</td></tr><tr><td>19</td><td>209</td></tr> </table>| <table> <tr><th>Table 2 Heading 1</th><th>Table 2 Heading 2</th></tr><tr><td>Row 1 Column 1</td><td>Row 1 Column 2</td></tr> </table>
+**VGG16 with Focal Loss**
+|     rest      |    Covid 19   |          
+| ------------- | ------------- |
+|     600       |       0       |          
+|       8       |       20      |          
+
+|     rest      |      Normal   |         
+| ------------- | ------------- | 
+|     207       |       21      |         
+|       15      |      385      |         
+
+|     rest      |   pneumonia   |
+| ------------- | ------------- |
+|     387       |       13      |
+|     22        |       206     |
 
 #
 # Models
